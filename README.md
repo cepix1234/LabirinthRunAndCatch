@@ -1,1 +1,2 @@
-﻿ #Igra pa take
+ #AI igra
+* V igri loviš ali bežiš pred računalnikom
